@@ -13,16 +13,17 @@ Width="40" height="40" >, I'm Shashank shrivastava!
 
 - 🔭 I’m currently working on <br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23256621&lines=true&lines=Portfolio;Blogging-website;open-to-intern-project;book-management;E-commerce-website;Url-shortner )](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Node.js,Express,Mongo db,React
+- 🌱 I’m currently full stack Developer in mern stack Node.js,Express,Mongo db,React
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashank1406)
 
 - 📝 I am write articles on [https://www.linkedin.com/pulse/my-one-month-experience-function-up-bootcamp-shashank-shrivastava/)
 
-- 💬 Ask me about JavaScript , Node.js ,MongoDB ,Express.js ,Html, Css
+- 💬 Ask me about JavaScript , Node.js , React, MongoDB ,Express.js ,Html, Css
  
 - 📫 My portfolio website link https://shashankshrivastava.netlify.app/
- - 📫 How to reach me satu5050@gmail.com 
+
+- 📫 How to reach me satu5050@gmail.com 
  https://www.linkedin.com/in/shashank-shrivastava-28a07b226/ </p>
 
 
