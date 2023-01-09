@@ -11,7 +11,7 @@ Width="40" height="40" >, I'm Shashank shrivastava!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumardhotre&label=Profile%20views&color=0e75b6&style=flat" alt="Shashank shrivastava" /> </p>
 
-- 🔭 I’m currently working as <br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23256621&lines=true&lines=Portfolio; Full Stack Developer )](https://git.io/typing-svg)
+- 🔭 I’m currently working as Full Stack Developer
 
 - 🌱 I’m currently full stack Developer in mern stack Node.js,Express,Mongo db,React
 
